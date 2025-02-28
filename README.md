@@ -59,7 +59,7 @@ In the "Do you want to Predict target?" section, enter a SMILES string. View the
 
 ## Installation
 
-`git clone https://github.com/AW1176/`
+`git clone https://github.com/alanseb92/ML-model-rdKit`
 
 `pip install -r requirements.txt`
 
